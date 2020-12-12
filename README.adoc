@@ -1,0 +1,28 @@
+:icons: font
+:numbered:
+:title: Doker (Delphi Planning Poker) Documentation
+ifdef::env-github[:outfilesuffix: .adoc]
+
+ifdef::env-github,env-browser[]
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+endif::[]
+
+ifndef::env-github[]
+= {title}
+endif::[]
+
+ifndef::env-github,env-browser[]
+NOTE: This is work in progress
+endif::[]
+
+This repo serves as the central documentation hub for the Doker project.
+
+ifndef::env-github[]
+== Documentation on GitHub Pages
+
+View the https://haro87.github.io/doker-meta[documentation on GitHub Pages].
+endif::[]
