@@ -22,11 +22,12 @@ endif::[]
 This repo serves as the central documentation hub for the Doker project.
 
 ifndef::env-github[]
+== arc42 Architecture Documentation
+
+You can find the architecture documentation link:arc42/arc42-template.html[here].
+endif::[]
+
 == Documentation on GitHub Pages
 
 View the https://haro87.github.io/doker-meta[documentation on GitHub Pages].
-endif::[]
 
-== arc42 Architecture Documentation
-
-You can find the architecture documentation https://haro87.github.io/doker-meta/arc42/arc42-template.html[here].
